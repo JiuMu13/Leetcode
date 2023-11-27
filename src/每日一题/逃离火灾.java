@@ -8,7 +8,7 @@ public class 逃离火灾 {
     private static final int[][] DIRS = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
     public int maximumMinutes(int[][] grid) {
-        int[] res = bfs(grid, List.of(new int[]{0, 0}));
+        int[] res = bfs(grid, Arrays.asList(new int[]{0, 0}));
         int manToHouseTime = res[0], m1 = res[1], m2 = res[2];
         if (manToHouseTime < 0) { // 人无法到安全屋
             return -1;

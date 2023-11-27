@@ -1,7 +1,196 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="" />
+    <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/每日一题/子数组的最小值之和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/HTML实体解析器.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/HTML实体解析器.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/IndexPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/IndexPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NC15489.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NC15489.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Nim游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Nim游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NumArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RandomizedSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RandomizedSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockSpanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockSpanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/SubrectangleQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/SubrectangleQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一个区间内所有数乘积的缩写.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一个区间内所有数乘积的缩写.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/三个无重叠子数组的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/三个无重叠子数组的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/两数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/两数之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机三.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机三.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树节点最小距离.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树节点最小距离.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树中的伪回文路径.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树中的伪回文路径.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使二进制字符串字符交替的最少反转次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使二进制字符串字符交替的最少反转次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使数组和能被P整除.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使数组和能被P整除.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/倍数求和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/倍数求和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/做菜顺序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/做菜顺序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1flower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1flower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/切割后面积最大的蛋糕.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/切割后面积最大的蛋糕.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/删除有序数组中的重复项II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/删除有序数组中的重复项II.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断一个数的数字计数是否等于数位的值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断一个数的数字计数是否等于数位的值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断能否形成等差数列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断能否形成等差数列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/加油站.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/加油站.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/华为_数字序列比大小.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/华为_数字序列比大小.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/参加会议的最多员工数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/参加会议的最多员工数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字三.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字三.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/同积元组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/同积元组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/咒语和药水的成功对数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/咒语和药水的成功对数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串转换.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串转换.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串轮转.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串轮转.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/宝石补给.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/宝石补给.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/将钱分给最多的儿童.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/将钱分给最多的儿童.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/形成目标数组的子数组最少增加次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/形成目标数组的子数组最少增加次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/得到K个半回文串的最少修改次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/得到K个半回文串的最少修改次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/情侣牵手.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/情侣牵手.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/所有排列中的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/所有排列中的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行操作后的变量值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行操作后的变量值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/找出字符串中第一个匹配项的下标.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/找出字符串中第一个匹配项的下标.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拿硬币.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拿硬币.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/掷骰子等于目标和的方法数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/掷骰子等于目标和的方法数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数位和相等数对的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数位和相等数对的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数组中两个数的最大异或值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数组中两个数的最大异或值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/无重复字符的最长子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/无重复字符的最长子串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符$MaxMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符$MaxMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大单词长度乘积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大单词长度乘积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大子数组和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大子数组和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最少的后缀翻转次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最少的后缀翻转次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最接近的三数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最接近的三数之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最短回文串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最短回文串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长奇偶子数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长奇偶子数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长平衡子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长平衡子字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长递增子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长递增子序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每日温度.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每日温度.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每棵子树内缺失的最小基因值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每棵子树内缺失的最小基因值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/求一个整数的惩罚数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/求一个整数的惩罚数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/滑动窗口最大值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/滑动窗口最大值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/种花问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/种花问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/移动机器人.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/移动机器人.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/组合总和Ⅳ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/组合总和Ⅳ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计一个数组中好对子的数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计一个数组中好对子的数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计出现过一次的公共字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计出现过一次的公共字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计和小于目标的下标对数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计和小于目标的下标对数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计子串中的唯一字符.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计子串中的唯一字符.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计无向图中无法互相到达点对数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计无向图中无法互相到达点对数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计树中的合法路径数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计树中的合法路径数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格中的最小路径代价.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格中的最小路径代价.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网络延迟时间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网络延迟时间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/罗马数字转整数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/罗马数字转整数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/美化数组的最少删除数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/美化数组的最少删除数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/规定时间内到达终点的最小花费.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/规定时间内到达终点的最小花费.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/计数质数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/计数质数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/训练计划一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/训练计划一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离大迷宫.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离大迷宫.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离火灾.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离火灾.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/递枕头.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/递枕头.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/避免洪水泛滥.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/避免洪水泛滥.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重复的DNA序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重复的DNA序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新安排行程.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新安排行程.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新排列字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新排列字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/长度为三且各字符不同的子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/长度为三且各字符不同的子字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/阈值距离内邻居最少的城市.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/阈值距离内邻居最少的城市.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/除法求值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/除法求值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/最大二进制奇数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/最大二进制奇数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/统计树中的合法路径数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/统计树中的合法路径数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/无限数组的最短子数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/无限数组的最短子数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有向图访问计数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有向图访问计数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有序三元组中的最大值一二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有序三元组中的最大值一二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/分类求和并作差.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/分类求和并作差.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/对数组执行操作使平方和最大.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/对数组执行操作使平方和最大.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/执行操作使两个字符串相等.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/执行操作使两个字符串相等.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/最短且字典序最小的美丽子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/最短且字典序最小的美丽子字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/构造乘积矩阵.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/构造乘积矩阵.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/元素和最小的山形三元组一二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/元素和最小的山形三元组一二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/合法分组的最少组数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/合法分组的最少组数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/使数组变美的最小增量运算数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/使数组变美的最小增量运算数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/找出数组中的K_or值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/找出数组中的K_or值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/收集所有金币可获得的最大积分.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/收集所有金币可获得的最大积分.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/数组的最小相等和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/数组的最小相等和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/在树上执行操作以后得到的最大分数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/在树上执行操作以后得到的最大分数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/平衡子序列的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/平衡子序列的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/最大化数组末位元素的最少操作次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/最大化数组末位元素的最少操作次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/高访问员工.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/高访问员工.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/使三个字符串相等.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/使三个字符串相等.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/区分黑球与白球.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/区分黑球与白球.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/最大异或乘积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/最大异或乘积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/每日一题/路径总和.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/每日一题/路径总和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/每日一题/逃离火灾.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/每日一题/逃离火灾.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +231,10 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="D:/文档/java/第三阶段：JavaWeb开发/22.juc/JUC_Day01" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -52,13 +244,26 @@
       <recent name="D:\javawork\LeetCode\src\每日一题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HTML实体解析器">
+  <component name="RunManager" selected="Application.子数组的最小值之和">
     <configuration name="数组的最小相等和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第369场周赛.数组的最小相等和" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="第369场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="子数组的最小值之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.子数组的最小值之和" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,80 +294,6 @@
     <configuration name="RangeModule" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="RangeModule" />
       <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="情侣牵手" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="情侣牵手" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="避免洪水泛滥" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="避免洪水泛滥" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计子串中的唯一字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.统计子串中的唯一字符" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="切割后面积最大的蛋糕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="切割后面积最大的蛋糕" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="形成目标数组的子数组最少增加次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="形成目标数组的子数组最少增加次数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="倍数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="倍数求和" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分类求和并作差" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第366场周赛.分类求和并作差" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第366场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大二进制奇数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第364场周赛.最大二进制奇数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第364场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -250,6 +381,13 @@
     </configuration>
     <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="买卖股票的最佳时机" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="情侣牵手" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="情侣牵手" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -343,6 +481,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="避免洪水泛滥" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="避免洪水泛滥" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最短且字典序最小的美丽子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第367场周赛.最短且字典序最小的美丽子字符串" />
       <module name="LeetCode" />
@@ -415,6 +560,19 @@
     <configuration name="细分图中的可到达节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="细分图中的可到达节点" />
       <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计子串中的唯一字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.统计子串中的唯一字符" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -497,6 +655,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="切割后面积最大的蛋糕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="切割后面积最大的蛋糕" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -595,6 +760,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="形成目标数组的子数组最少增加次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="形成目标数组的子数组最少增加次数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="统计无向图中无法互相到达点对数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="统计无向图中无法互相到达点对数" />
       <module name="LeetCode" />
@@ -616,8 +788,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="倍数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="倍数求和" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分类求和并作差" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第366场周赛.分类求和并作差" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第366场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大二进制奇数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第364场周赛.最大二进制奇数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第364场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.子数组的最小值之和" />
         <item itemvalue="Application.HTML实体解析器" />
         <item itemvalue="Application.RangeModule" />
         <item itemvalue="Application.重复的DNA序列" />
@@ -773,6 +979,7 @@
       <workItem from="1700922686702" duration="1351000" />
       <workItem from="1700960318203" duration="5988000" />
       <workItem from="1700967855005" duration="2898000" />
+      <workItem from="1701045707966" duration="4085000" />
     </task>
     <servers />
   </component>
@@ -788,30 +995,39 @@
       <screen x="0" y="0" width="1280" height="752" />
     </state>
     <state x="47" y="101" key="#com.intellij.ide.util.MemberChooser/0.0.1280.752@0.0.1280.752" timestamp="1699763097389" />
-    <state x="421" y="135" key="FileChooserDialogImpl" timestamp="1700922723471">
-      <screen x="0" y="0" width="1280" height="752" />
+    <state x="811" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1701047186373">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="811" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1701047186373" />
+    <state x="632" y="185" key="FileChooserDialogImpl" timestamp="1701047431150">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1700922723471" />
-    <state width="1238" height="115" key="GridCell.Tab.0.bottom" timestamp="1700967787190">
-      <screen x="0" y="0" width="1280" height="752" />
+    <state x="632" y="185" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1701047431150" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1701048685902">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.bottom/0.0.1280.776@0.0.1280.776" timestamp="1699418808867" />
-    <state width="1238" height="115" key="GridCell.Tab.0.center" timestamp="1700967787190">
-      <screen x="0" y="0" width="1280" height="752" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1701048685902" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1701048685902">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.center/0.0.1280.776@0.0.1280.776" timestamp="1699418808865" />
-    <state width="1238" height="115" key="GridCell.Tab.0.left" timestamp="1700967787190">
-      <screen x="0" y="0" width="1280" height="752" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1701048685902" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1701048685902">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.left/0.0.1280.776@0.0.1280.776" timestamp="1699418808864" />
-    <state width="1238" height="115" key="GridCell.Tab.0.right" timestamp="1700967787190">
-      <screen x="0" y="0" width="1280" height="752" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1701048685902" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1701048685902">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.right/0.0.1280.776@0.0.1280.776" timestamp="1699418808865" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1701048685902" />
     <state width="1238" height="170" key="GridCell.Tab.1.bottom" timestamp="1698225927664">
       <screen x="0" y="0" width="1280" height="752" />
     </state>
@@ -828,10 +1044,11 @@
       <screen x="0" y="0" width="1280" height="752" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.1.right/0.0.1280.752@0.0.1280.752" timestamp="1698225927664" />
-    <state x="144" y="22" key="SettingsEditor" timestamp="1700922731573">
-      <screen x="0" y="0" width="1280" height="752" />
+    <state x="216" y="30" key="SettingsEditor" timestamp="1701047437578">
+      <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="144" y="22" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1700922731573" />
+    <state x="216" y="30" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1701047437578" />
     <state x="6" y="0" key="new project wizard" timestamp="1699363978275">
       <screen x="0" y="0" width="1280" height="752" />
     </state>

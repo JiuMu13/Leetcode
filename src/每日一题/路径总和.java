@@ -1,7 +1,5 @@
 package 每日一题;
 
-import com.sun.source.tree.Tree;
-
 public class 路径总和 {
     public class TreeNode {
         int val;
