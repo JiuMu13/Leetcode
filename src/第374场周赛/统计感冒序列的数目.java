@@ -11,7 +11,7 @@ public class 统计感冒序列的数目 {
             JC[i]=JC[i-1]*i%m;
         }
         invJC[size-1]=ksm((int)JC[size-1],m-2);
-        for (int i=size-1;i>1;i--){
+        for (int i=size-1;i>=1;i--){
             invJC[i-1]=invJC[i]*i%m;
         }
     }
@@ -37,6 +37,8 @@ public class 统计感冒序列的数目 {
         curr-=sick[0];
         for (int i=1;i<sick.length;i++){
             int t=sick[i]-sick[i-1]-1;
+            if (t==0)
+                continue;
             result=result*comb(curr,t)%m*ksm(2,t-1)%m;
             curr-=t;
         }
@@ -44,9 +46,8 @@ public class 统计感冒序列的数目 {
     }
 
     public static void main(String[] args) {
-        System.out.println(invJC[5]);
         统计感冒序列的数目 t=new 统计感冒序列的数目();
-        System.out.println(t.numberOfSequence(5,new int[]{0,4}));
+        System.out.println(t.numberOfSequence(5,new int[]{0,1}));
     }
 }
 
