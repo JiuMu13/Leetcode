@@ -1,7 +1,5 @@
 package 每日一题;
 
-import java.util.Map;
-
 public class 可获得的最大点数 {
     public int maxScore(int[] cardPoints, int k) {
         int n=cardPoints.length;
