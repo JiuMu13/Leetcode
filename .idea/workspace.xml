@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/每日一题/下一个更大元素四.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/其他练习/删掉一个元素以后全为1的最长子数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第375场周赛/双模幂运算.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第375场周赛/统计已测试设备.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/第375场周赛/统计最大元素出现至少K次的子数组.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -999,7 +1002,7 @@
       <workItem from="1702020949179" duration="3676000" />
       <workItem from="1702106217641" duration="2740000" />
       <workItem from="1702264010509" duration="6009000" />
-      <workItem from="1702344669530" duration="8904000" />
+      <workItem from="1702344669530" duration="16488000" />
     </task>
     <task id="LOCAL-00001" summary="11月27日每日一题">
       <created>1701049864792</created>
@@ -1113,7 +1116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702282974247</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="12月12日交&#10;每日一题">
+      <created>1702359814273</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1702359814274</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1149,7 +1159,8 @@
     <MESSAGE value="12月8日交&#10;每日一题" />
     <MESSAGE value="12月10日交&#10;9号10号每日一题" />
     <MESSAGE value="12月11日交&#10;每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="12月11日交&#10;每日一题" />
+    <MESSAGE value="12月12日交&#10;每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="12月12日交&#10;每日一题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="398" y="185" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1696900799610">
@@ -1165,10 +1176,10 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="811" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1701047186373" />
-    <state x="635" y="97" key="CommitChangelistDialog2" timestamp="1702282973540">
+    <state x="635" y="97" key="CommitChangelistDialog2" timestamp="1702359813561">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="635" y="97" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1702282973540" />
+    <state x="635" y="97" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1702359813561" />
     <state x="632" y="185" key="FileChooserDialogImpl" timestamp="1701257828871">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -1219,10 +1230,10 @@
     </state>
     <state x="144" y="22" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1700922731573" />
     <state x="216" y="30" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1701329689082" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1702286588416">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1702359825808">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1702286588416" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1702359825808" />
     <state x="754" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701329013131">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
