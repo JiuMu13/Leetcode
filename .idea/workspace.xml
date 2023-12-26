@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/每日一题/不浪费原料的汉堡制作方案.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题/收集足够苹果的最小花园周长.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第120场双周赛/找到最大周长的多边形.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第120场双周赛/树中每个节点放置的金币数目.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第120场双周赛/统计移除递增子数组的数目一二.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第377场周赛/最小数字游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第377场周赛/移除栅栏得到的正方形田地的最大面积.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第377场周赛/转换字符串的最小成本一.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/第377场周赛/转换字符串的最小成本二.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/参加考试的最大学生数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +61,7 @@
       <recent name="D:\javawork\LeetCode\src\每日一题" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.转换字符串的最小成本二">
+  <component name="RunManager" selected="Application.参加考试的最大学生数">
     <configuration name="移除栅栏得到的正方形田地的最大面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第377场周赛.移除栅栏得到的正方形田地的最大面积" />
       <module name="LeetCode" />
@@ -83,85 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="转换字符串的最小成本一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本一" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第377场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计移除递增子数组的数目一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第120场双周赛.统计移除递增子数组的数目一二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第120场双周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="转换字符串的最小成本二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第377场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="收集足够苹果的最小花园周长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.收集足够苹果的最小花园周长" />
+    <configuration name="参加考试的最大学生数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.参加考试的最大学生数" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="替换后的最长重复字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="替换后的最长重复字符" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最长回文子串" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="相对名次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="相对名次" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="执行操作使频率分数最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第376场周赛.执行操作使频率分数最大" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第376场周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -281,6 +200,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="转换字符串的最小成本一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本一" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第377场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="统计完全子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第374场周赛.统计完全子字符串" />
       <module name="LeetCode" />
@@ -362,6 +294,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="第364场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计移除递增子数组的数目一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第120场双周赛.统计移除递增子数组的数目一二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第120场双周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,6 +408,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="转换字符串的最小成本二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第377场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="平衡子序列的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第370场周赛.平衡子序列的最大和" />
       <module name="LeetCode" />
@@ -544,6 +502,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="第367场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="收集足够苹果的最小花园周长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.收集足够苹果的最小花园周长" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -651,6 +622,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="替换后的最长重复字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="替换后的最长重复字符" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="执行操作使频率分数最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第376场周赛.执行操作使频率分数最大" />
       <module name="LeetCode" />
@@ -751,6 +729,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最长回文子串" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="掷骰子等于目标和的方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="掷骰子等于目标和的方法数" />
       <module name="LeetCode" />
@@ -841,6 +826,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="相对名次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="相对名次" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -939,13 +931,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="执行操作使频率分数最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第376场周赛.执行操作使频率分数最大" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第376场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.转换字符串的最小成本二" />
-        <item itemvalue="Application.统计移除递增子数组的数目一二" />
-        <item itemvalue="Application.收集足够苹果的最小花园周长" />
+        <item itemvalue="Application.参加考试的最大学生数" />
         <item itemvalue="Application.移除栅栏得到的正方形田地的最大面积" />
-        <item itemvalue="Application.转换字符串的最小成本一" />
       </list>
     </recent_temporary>
   </component>
@@ -1126,7 +1128,8 @@
       <workItem from="1703080928212" duration="1256000" />
       <workItem from="1703083810101" duration="7503000" />
       <workItem from="1703121947545" duration="13764000" />
-      <workItem from="1703242897661" duration="65706000" />
+      <workItem from="1703242897661" duration="65779000" />
+      <workItem from="1703559923979" duration="10999000" />
     </task>
     <task id="LOCAL-00001" summary="11月27日每日一题">
       <created>1701049864792</created>
@@ -1317,7 +1320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703297647986</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="12月25日交&#10;24,25每日一题，第120场双周赛，第377场周赛">
+      <created>1703474979284</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1703474979284</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1337,7 +1347,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="11月29日每日一题" />
     <MESSAGE value="11月29日交&#10;第373场周赛前两题" />
     <MESSAGE value="11月30日交&#10;第373场周赛后两题，每日一题&#10;和字母与数字（该题是前缀和加哈希表类型的模板题）" />
     <MESSAGE value="12月1日交&#10;每日一题" />
@@ -1362,7 +1371,8 @@
     <MESSAGE value="12月21日交&#10;每日一题" />
     <MESSAGE value="12月22日交&#10;每日一题" />
     <MESSAGE value="12月23日交&#10;每日一题，最长递增子序列优化写法" />
-    <option name="LAST_COMMIT_MESSAGE" value="12月23日交&#10;每日一题，最长递增子序列优化写法" />
+    <MESSAGE value="12月25日交&#10;24,25每日一题，第120场双周赛，第377场周赛" />
+    <option name="LAST_COMMIT_MESSAGE" value="12月25日交&#10;24,25每日一题，第120场双周赛，第377场周赛" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1703083793656">
@@ -1386,68 +1396,68 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="811" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1701047186373" />
-    <state x="635" y="97" key="CommitChangelistDialog2" timestamp="1703297647485">
+    <state x="635" y="97" key="CommitChangelistDialog2" timestamp="1703474978317">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="635" y="97" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1703297647485" />
+    <state x="635" y="97" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1703474978317" />
     <state x="632" y="185" key="FileChooserDialogImpl" timestamp="1701257828871">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1700922723471" />
     <state x="632" y="185" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1701257828871" />
-    <state width="1877" height="249" key="GridCell.Tab.0.bottom" timestamp="1703472721704">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1703581523032">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.bottom/0.0.1280.776@0.0.1280.776" timestamp="1699418808867" />
-    <state width="1877" height="249" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1703472721704" />
-    <state width="1877" height="249" key="GridCell.Tab.0.center" timestamp="1703472721704">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1703581523032" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1703581523032">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.center/0.0.1280.776@0.0.1280.776" timestamp="1699418808865" />
-    <state width="1877" height="249" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1703472721704" />
-    <state width="1877" height="249" key="GridCell.Tab.0.left" timestamp="1703472721704">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1703581523032" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1703581523032">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.left/0.0.1280.776@0.0.1280.776" timestamp="1699418808864" />
-    <state width="1877" height="249" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1703472721704" />
-    <state width="1877" height="249" key="GridCell.Tab.0.right" timestamp="1703472721704">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1703581523032" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1703581523032">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.right/0.0.1280.776@0.0.1280.776" timestamp="1699418808865" />
-    <state width="1877" height="249" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1703472721704" />
-    <state width="1877" height="353" key="GridCell.Tab.1.bottom" timestamp="1703424473998">
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1703581523032" />
+    <state width="1877" height="353" key="GridCell.Tab.1.bottom" timestamp="1703474996794">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.1.bottom/0.0.1280.752@0.0.1280.752" timestamp="1698225927664" />
-    <state width="1877" height="353" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1703424473998" />
-    <state width="1877" height="353" key="GridCell.Tab.1.center" timestamp="1703424473998">
+    <state width="1877" height="353" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1703474996794" />
+    <state width="1877" height="353" key="GridCell.Tab.1.center" timestamp="1703474996794">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.1.center/0.0.1280.752@0.0.1280.752" timestamp="1698225927664" />
-    <state width="1877" height="353" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1703424473998" />
-    <state width="1877" height="353" key="GridCell.Tab.1.left" timestamp="1703424473998">
+    <state width="1877" height="353" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1703474996794" />
+    <state width="1877" height="353" key="GridCell.Tab.1.left" timestamp="1703474996794">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.1.left/0.0.1280.752@0.0.1280.752" timestamp="1698225927664" />
-    <state width="1877" height="353" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1703424473998" />
-    <state width="1877" height="353" key="GridCell.Tab.1.right" timestamp="1703424473998">
+    <state width="1877" height="353" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1703474996794" />
+    <state width="1877" height="353" key="GridCell.Tab.1.right" timestamp="1703474996794">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="170" key="GridCell.Tab.1.right/0.0.1280.752@0.0.1280.752" timestamp="1698225927664" />
-    <state width="1877" height="353" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1703424473998" />
+    <state width="1877" height="353" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1703474996794" />
     <state x="465" y="150" key="SettingsEditor" timestamp="1702733881346">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="144" y="22" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1700922731573" />
     <state x="465" y="150" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1702733881346" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1703297658529">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1703474990287">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1703297658529" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1703474990287" />
     <state x="754" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701329013131">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
