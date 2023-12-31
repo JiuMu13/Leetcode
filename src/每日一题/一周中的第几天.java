@@ -1,5 +1,6 @@
 package 每日一题;
 
+import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -15,6 +16,7 @@ public class 一周中的第几天 {
 //    }
     public static void main(String[] args) {
         一周中的第几天 t=new 一周中的第几天();
+
         System.out.println( t.dayOfTheWeek(30,12,2023));
     }
 }
