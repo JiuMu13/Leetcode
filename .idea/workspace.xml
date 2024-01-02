@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/每日一题/经营摩天轮的最大利润.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题/统计重复个数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <recent name="D:\javawork\LeetCode\src\每日一题" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.统计重复个数">
     <configuration name="移除栅栏得到的正方形田地的最大面积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第377场周赛.移除栅栏得到的正方形田地的最大面积" />
       <module name="LeetCode" />
@@ -75,75 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="倍数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="倍数求和" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="同积元组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="同积元组" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分类求和并作差" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第366场周赛.分类求和并作差" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第366场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="全部开花的最早一天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="全部开花的最早一天" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="一周中的第几天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.一周中的第几天" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="切割后面积最大的蛋糕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="切割后面积最大的蛋糕" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="高访问员工" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第371场周赛.高访问员工" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第371场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="重新规划路线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.重新规划路线" />
+    <configuration name="统计重复个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.统计重复个数" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -267,6 +200,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="倍数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="倍数求和" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="买卖股票的最佳时机三" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="买卖股票的最佳时机三" />
       <module name="LeetCode" />
@@ -350,6 +290,13 @@
     </configuration>
     <configuration name="求一个整数的惩罚数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="求一个整数的惩罚数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="同积元组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="同积元组" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -451,6 +398,19 @@
     <configuration name="三个无重叠子数组的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="三个无重叠子数组的最大和" />
       <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分类求和并作差" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第366场周赛.分类求和并作差" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第366场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -561,6 +521,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="全部开花的最早一天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="全部开花的最早一天" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="拼车" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="每日一题.拼车" />
       <module name="LeetCode" />
@@ -661,6 +628,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="一周中的第几天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.一周中的第几天" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="最长回文子串" />
       <module name="LeetCode" />
@@ -744,6 +724,13 @@
     </configuration>
     <configuration name="最长递增子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="最长递增子序列" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="切割后面积最大的蛋糕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="切割后面积最大的蛋糕" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -855,6 +842,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="高访问员工" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第371场周赛.高访问员工" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第371场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="元素和最小的山形三元组一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="第368场周赛.元素和最小的山形三元组一二" />
       <module name="LeetCode" />
@@ -943,6 +943,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="重新规划路线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.重新规划路线" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="每日一题.爬楼梯" />
       <module name="LeetCode" />
@@ -998,6 +1011,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.统计重复个数" />
         <item itemvalue="Application.移除栅栏得到的正方形田地的最大面积" />
       </list>
     </recent_temporary>
@@ -1184,7 +1198,8 @@
       <workItem from="1703751745406" duration="4553000" />
       <workItem from="1703946577896" duration="2021000" />
       <workItem from="1703985267997" duration="17959000" />
-      <workItem from="1704099917442" duration="2340000" />
+      <workItem from="1704099917442" duration="2447000" />
+      <workItem from="1704166181053" duration="5128000" />
     </task>
     <task id="LOCAL-00001" summary="11月27日每日一题">
       <created>1701049864792</created>
@@ -1410,7 +1425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704010761058</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="2024年1月1日交&#10;每日一题">
+      <created>1704102351086</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1704102351086</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1430,7 +1452,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12月3日交&#10;每日一题,周赛前三题" />
     <MESSAGE value="12月4日交&#10;未完" />
     <MESSAGE value="12月4日交&#10;每日一题，第374场周赛" />
     <MESSAGE value="12月5日交&#10;每日一题" />
@@ -1455,7 +1476,8 @@
     <MESSAGE value="12月28日交&#10;每日一题" />
     <MESSAGE value="12月30日交&#10;每日一题" />
     <MESSAGE value="12月31日交&#10;每日一题，第378场周赛" />
-    <option name="LAST_COMMIT_MESSAGE" value="12月31日交&#10;每日一题，第378场周赛" />
+    <MESSAGE value="2024年1月1日交&#10;每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024年1月1日交&#10;每日一题" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="178" key="#Notifications" timestamp="1703083793656">
@@ -1479,39 +1501,39 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="811" y="408" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1701047186373" />
-    <state x="635" y="97" key="CommitChangelistDialog2" timestamp="1704010759525">
+    <state x="635" y="97" key="CommitChangelistDialog2" timestamp="1704102350072">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="635" y="97" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1704010759525" />
+    <state x="635" y="97" key="CommitChangelistDialog2/0.0.1920.1032@0.0.1920.1032" timestamp="1704102350072" />
     <state x="632" y="185" key="FileChooserDialogImpl" timestamp="1701257828871">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="421" y="135" key="FileChooserDialogImpl/0.0.1280.752@0.0.1280.752" timestamp="1700922723471" />
     <state x="632" y="185" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1701257828871" />
-    <state width="1877" height="305" key="GridCell.Tab.0.bottom" timestamp="1704010866273">
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom" timestamp="1704180855585">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.bottom/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.bottom/0.0.1280.776@0.0.1280.776" timestamp="1699418808867" />
-    <state width="1877" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1704010866273" />
-    <state width="1877" height="305" key="GridCell.Tab.0.center" timestamp="1704010866273">
+    <state width="1877" height="216" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1704180855585" />
+    <state width="1877" height="216" key="GridCell.Tab.0.center" timestamp="1704180855584">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.center/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.center/0.0.1280.776@0.0.1280.776" timestamp="1699418808865" />
-    <state width="1877" height="305" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1704010866273" />
-    <state width="1877" height="305" key="GridCell.Tab.0.left" timestamp="1704010866273">
+    <state width="1877" height="216" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1704180855584" />
+    <state width="1877" height="216" key="GridCell.Tab.0.left" timestamp="1704180855582">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.left/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.left/0.0.1280.776@0.0.1280.776" timestamp="1699418808864" />
-    <state width="1877" height="305" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1704010866273" />
-    <state width="1877" height="305" key="GridCell.Tab.0.right" timestamp="1704010866273">
+    <state width="1877" height="216" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1704180855582" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right" timestamp="1704180855585">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1238" height="115" key="GridCell.Tab.0.right/0.0.1280.752@0.0.1280.752" timestamp="1700967787190" />
     <state width="1238" height="122" key="GridCell.Tab.0.right/0.0.1280.776@0.0.1280.776" timestamp="1699418808865" />
-    <state width="1877" height="305" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1704010866273" />
+    <state width="1877" height="216" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1704180855585" />
     <state width="1877" height="305" key="GridCell.Tab.1.bottom" timestamp="1704010866273">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -1537,10 +1559,10 @@
     </state>
     <state x="144" y="22" key="SettingsEditor/0.0.1280.752@0.0.1280.752" timestamp="1700922731573" />
     <state x="465" y="150" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1702733881346" />
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1704010782759">
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1704102357475">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1704010782759" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1704102357475" />
     <state x="754" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1701329013131">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
