@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class 电话号码的字母组合 {
+
     public List<String> letterCombinations(String digits) {
         //特判：当所给字符串为空时，直接返回空数组
         if (digits.length()==0)
@@ -26,7 +27,6 @@ public class 电话号码的字母组合 {
             lists[i].add((char)(t++));
         }
         lists[7].add('z');
-
         //递归处理
         List<StringBuilder> r = dg(digits,lists);
         List<String> rs=new ArrayList<>();
@@ -36,8 +36,6 @@ public class 电话号码的字母组合 {
         }
         return rs;
     }
-
-
     private List<StringBuilder> dg(String s,List<Character>[] lists){
         if (s.length()==1) {
             int listIndex=s.charAt(0)-'0'-2;
@@ -49,6 +47,7 @@ public class 电话号码的字母组合 {
         }
         List<StringBuilder> r=new ArrayList<>();
         int listIndex=s.charAt(0)-'0'-2;
+        //遍历集合对应元素
         for (int i=0;i<lists[listIndex].size();i++){
             List<StringBuilder> dg = dg(s.substring(1), lists);
             for (int j=0;j<dg.size();j++){
