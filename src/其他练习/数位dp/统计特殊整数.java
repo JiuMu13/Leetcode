@@ -3,6 +3,10 @@ package 其他练习.数位dp;
 import java.util.Arrays;
 
 public class 统计特殊整数 {
+    public static void main(String[] args) {
+        new 统计特殊整数().countSpecialNumbers(20);
+
+    }
     public int countSpecialNumbers(int n) {
         cs = String.valueOf(n).toCharArray();
         int len=cs.length;

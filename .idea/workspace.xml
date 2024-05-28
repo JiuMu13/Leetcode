@@ -4,47 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="2024年3月20日">
-      <change afterPath="$PROJECT_DIR$/src/其他练习/任意子数组和的绝对值的最大值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/和为目标值的最长子序列的长度.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/将一个数字表示成幂的和的方案数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/左移右移.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/数位dp/旋转数字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/数位dp/统计特殊整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/最长公共子序列.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/网格图中最少访问的格子数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/迷宫.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/零钱兑换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/模板/Dijkstra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/模板/十大排序算法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/SnapshotArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/你可以工作的最大周数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/使数组连续的最少操作数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/修改后的最大二进制字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/吃掉N个橘子的最少天数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/完成所有任务的最少时间.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/找出可整除性得分最大的整数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/找出输掉零场或一场比赛的玩家.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/摘樱桃.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/摘樱桃二.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/正整数和负整数的最大计数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/爱生气的书店老板.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/组合总和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/组合总和三.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/给植物浇水.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/给植物浇水二.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/腐烂的橘子.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/每日一题二/零钱兑换二.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/蓝桥杯/修改.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/蓝桥杯/围栏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/蓝桥杯/背包与魔法.java" afterDir="false" />
+    <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="2024年5月28日交">
+      <change afterPath="$PROJECT_DIR$/src/其他练习/数位dp/数字1的个数.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/测试$Io.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/测试$Io.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/测试.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/测试.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/其他练习/整数转罗马数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/整数转罗马数字.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/每日一题二/到达目的地的方案数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/每日一题二/到达目的地的方案数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/测试.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/数位dp/统计特殊整数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/数位dp/统计特殊整数.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,53 +55,55 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.LC3n块披萨.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.N皇后.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.test.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.任意子数组和的绝对值的最大值.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.你可以工作的最大周数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.使数组连续的最少操作数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.修改.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.修改后的最大二进制字符串.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.到达目的地的方案数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.十大排序算法.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.吃掉N个橘子的最少天数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.好子数组的最大分数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.完成所有任务的最少时间.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.将一个数字表示成幂的和的方案数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.左移右移.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.找出美丽数组的最小和.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.摘樱桃.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.数组元素的最小非零乘积.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.最大波动的子字符串.executor&quot;: &quot;Debug&quot;,
-    &quot;应用程序.正整数和负整数的最大计数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.爱生气的书店老板.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.组合总和.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.统计打字方案数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.统计放置房子的方式数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.网格图中最少访问的格子数.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.网格图中最少访问的格子数_静态空间.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.背包与魔法.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.腐烂的橘子.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.迷宫.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.LC3n块披萨.executor": "Run",
+    "应用程序.N皇后.executor": "Debug",
+    "应用程序.test.executor": "Run",
+    "应用程序.任意子数组和的绝对值的最大值.executor": "Run",
+    "应用程序.你可以工作的最大周数.executor": "Run",
+    "应用程序.使数组连续的最少操作数.executor": "Run",
+    "应用程序.修改.executor": "Run",
+    "应用程序.修改后的最大二进制字符串.executor": "Run",
+    "应用程序.到达目的地的方案数.executor": "Run",
+    "应用程序.十大排序算法.executor": "Run",
+    "应用程序.吃掉N个橘子的最少天数.executor": "Run",
+    "应用程序.好子数组的最大分数.executor": "Run",
+    "应用程序.完成所有任务的最少时间.executor": "Run",
+    "应用程序.将一个数字表示成幂的和的方案数.executor": "Run",
+    "应用程序.左移右移.executor": "Run",
+    "应用程序.找出美丽数组的最小和.executor": "Run",
+    "应用程序.摘樱桃.executor": "Run",
+    "应用程序.数字1的个数.executor": "Run",
+    "应用程序.数组元素的最小非零乘积.executor": "Run",
+    "应用程序.最大波动的子字符串.executor": "Debug",
+    "应用程序.正整数和负整数的最大计数.executor": "Run",
+    "应用程序.爱生气的书店老板.executor": "Run",
+    "应用程序.组合总和.executor": "Run",
+    "应用程序.统计打字方案数.executor": "Run",
+    "应用程序.统计放置房子的方式数.executor": "Run",
+    "应用程序.统计特殊整数.executor": "Debug",
+    "应用程序.网格图中最少访问的格子数.executor": "Run",
+    "应用程序.网格图中最少访问的格子数_静态空间.executor": "Run",
+    "应用程序.背包与魔法.executor": "Run",
+    "应用程序.腐烂的橘子.executor": "Run",
+    "应用程序.迷宫.executor": "Run"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\javawork\LeetCode\src\每日一题" />
@@ -148,7 +113,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.LC3n块披萨">
+  <component name="RunManager" selected="应用程序.数字1的个数">
     <configuration name="将一个数字表示成幂的和的方案数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="其他练习.将一个数字表示成幂的和的方案数" />
       <module name="LeetCode" />
@@ -162,8 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LC3n块披萨" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.LC3n块披萨" />
+    <configuration name="数字1的个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.数位dp.数字1的个数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.数位dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计特殊整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.数位dp.统计特殊整数" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -1612,10 +1590,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.数字1的个数" />
+        <item itemvalue="应用程序.统计特殊整数" />
         <item itemvalue="应用程序.吃掉N个橘子的最少天数" />
         <item itemvalue="应用程序.将一个数字表示成幂的和的方案数" />
         <item itemvalue="应用程序.网格图中最少访问的格子数_静态空间" />
-        <item itemvalue="应用程序.LC3n块披萨" />
       </list>
     </recent_temporary>
   </component>
@@ -1894,7 +1873,7 @@
       <workItem from="1716340250189" duration="1269000" />
       <workItem from="1716733399935" duration="21152000" />
       <workItem from="1716857937551" duration="445000" />
-      <workItem from="1716858396146" duration="5673000" />
+      <workItem from="1716858396146" duration="8218000" />
     </task>
     <task id="LOCAL-00001" summary="11月27日每日一题">
       <created>1701049864792</created>
@@ -2184,7 +2163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710927057404</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="2024年5月28日交">
+      <option name="closed" value="true" />
+      <created>1716875791317</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1716875791317</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2202,7 +2189,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12月12日交&#10;每日一题" />
     <MESSAGE value="12月12日交&#10;周赛前三题和一道滑动窗口练习" />
     <MESSAGE value="12月14日交&#10;周赛最后一题和每日一题" />
     <MESSAGE value="12月15日交&#10;每日一题和一道对称二叉树练习" />
@@ -2227,7 +2213,8 @@
     <MESSAGE value="2024年1月21日交&#10;近期每日一题" />
     <MESSAGE value="2024年1月30日交&#10;近期每日一题,&#10;递归练习：N皇后，电话号码的字母组合" />
     <MESSAGE value="2024年3月20日" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024年3月20日" />
+    <MESSAGE value="2024年5月28日交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024年5月28日交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2316,6 +2303,11 @@
           <url>file://$PROJECT_DIR$/src/每日一题二/腐烂的橘子.java</url>
           <line>59</line>
           <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/其他练习/数位dp/统计特殊整数.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="38" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
