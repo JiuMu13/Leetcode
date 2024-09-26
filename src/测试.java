@@ -22,5 +22,7 @@ class 测试{
             return (int)st.nval;
         }
     }
+    public void test(){
 
+    }
 }

@@ -4,13 +4,403 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="2024年5月29日交">
-      <change afterPath="$PROJECT_DIR$/src/其他练习/图论/bfs/图中的最短环.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/图论/bfs/颜色交替的最短路径.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/图论/dfs/两个城市间路径的最小分数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/图论/dfs/统计完全连通分量的数量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/其他练习/图论/拓扑排序/可以到达所有点的最少点数目.java" afterDir="false" />
+    <list default="true" id="f3c97aa0-5ca1-435c-83c6-d5767088a44e" name="Default Changelist" comment="2024年7月24日交">
+      <change afterPath="$PROJECT_DIR$/src/其他练习/图论/Dijkstra/访问消失节点的最少时间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/学校作业/地铁线路问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/学校作业/邮局选址问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/与车相交的点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/公交路线.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/公司命名.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/坐上公交的最晚时间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/字符串中最多数目的子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/最佳观光组合.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/最长的字母序连续子字符串的长度.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/清除数字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/让所有学生保持开心的分组方法数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/每日一题二/边积分最高的节点.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/LC3n块披萨.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/MyCalendar$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/MyCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/MyCalendarThree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/MyCalendarThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/N皇后.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/RecentCounter$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/RecentCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/任意子数组和的绝对值的最大值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/全排列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/删掉一个元素以后全为1的最长子数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/和为目标值的最长子序列的长度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/bfs/图中的最短环.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/bfs/图中的最短环.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/bfs/颜色交替的最短路径.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/bfs/颜色交替的最短路径.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/dfs/两个城市间路径的最小分数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/dfs/两个城市间路径的最小分数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/dfs/统计完全连通分量的数量.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/dfs/统计完全连通分量的数量.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/拓扑排序/可以到达所有点的最少点数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/图论/拓扑排序/可以到达所有点的最少点数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/字母与数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/对称二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/将一个数字表示成幂的和的方案数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/左移右移.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/心算挑战.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/打家劫舍.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/打家劫舍三$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/打家劫舍三.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/掉落的方块$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/掉落的方块.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/不含连续1的非负整数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/不含连续1的非负整数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/二出现的次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/二出现的次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/数字1的个数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/数字1的个数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/旋转数字.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/旋转数字.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/最大为N的数字组合.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/最大为N的数字组合.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/统计特殊整数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/其他练习/数位dp/统计特殊整数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/整数转罗马数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/最长公共子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/最长递增子序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/电话号码的字母组合.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/统计打字方案数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/统计放置房子的方式数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/网格图中最少访问的格子数$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/网格图中最少访问的格子数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/迷宫$1Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/迷宫.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/其他练习/零钱兑换.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/模板/Dijkstra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/模板/Dijkstra.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/模板/十大排序算法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/模板/十大排序算法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/CountIntervals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/CountIntervals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/FrontMiddleBackQueue$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/FrontMiddleBackQueue$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/FrontMiddleBackQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/FrontMiddleBackQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/HTML实体解析器.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/HTML实体解析器.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/H指数二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/IndexPriorityQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/IndexPriorityQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/K站中转内最便宜的航班.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/LRUCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NC15489.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NC15489.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Nim游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Nim游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NumArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/NumArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RandomizedSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RandomizedSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/RangeModule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/SmallestInfiniteSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/SmallestInfiniteSet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockPrice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockSpanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/StockSpanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/SubrectangleQueries.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/SubrectangleQueries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Trie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/Trie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一个区间内所有数乘积的缩写.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一个区间内所有数乘积的缩写.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一周中的第几天.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一周中的第几天.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一年中的第几天.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/一年中的第几天.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/三个无重叠子数组的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/三个无重叠子数组的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/下一个更大元素四.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/下一个更大元素四.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/下一个更大的数值平衡数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/下一个更大的数值平衡数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/不浪费原料的汉堡制作方案.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/不浪费原料的汉堡制作方案.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/两数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/两数之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机三.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机三.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/买卖股票的最佳时机二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树中的插入操作.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树节点最小距离.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉搜索树节点最小距离.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树中的伪回文路径.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树中的伪回文路径.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的堂兄弟节点二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的堂兄弟节点二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的层序遍历.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的最近公共祖先.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/二叉树的最近公共祖先.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从二叉搜索树到更大和树.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从二叉搜索树到更大和树.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从数量最多的堆取走礼物.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从链表中移除节点$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从链表中移除节点$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从链表中移除节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/从链表中移除节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使二进制字符串字符交替的最少反转次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使二进制字符串字符交替的最少反转次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使循环数组所有元素相等的最少秒数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使循环数组所有元素相等的最少秒数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使数组和小于等于x的最少时间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使数组和小于等于x的最少时间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使数组和能被P整除.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/使数组和能被P整除.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/倍数求和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/倍数求和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/做菜顺序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/做菜顺序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1flower.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天$1flower.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/全部开花的最早一天.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/出租车的最大盈利$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/出租车的最大盈利$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/出租车的最大盈利.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/出租车的最大盈利.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/分割数组的最大值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/分割数组的最大值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/切割后面积最大的蛋糕.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/切割后面积最大的蛋糕.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/删除有序数组中的重复项II.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/删除有序数组中的重复项II.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断一个数的数字计数是否等于数位的值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断一个数的数字计数是否等于数位的值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断根结点是否等于子结点之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断能否形成等差数列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/判断能否形成等差数列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/到达首都的最少油耗.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/到达首都的最少油耗.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/加油站.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/加油站.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/华为_数字序列比大小.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/华为_数字序列比大小.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/参加会议的最多员工数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/参加会议的最多员工数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/参加考试的最大学生数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/参加考试的最大学生数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/反转二叉树的奇数层$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/反转二叉树的奇数层$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/反转二叉树的奇数层.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/反转二叉树的奇数层.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字三.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字三.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/只出现一次的数字二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/可获得的最大点数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/可获得的最大点数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并区间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点$Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/合并零之间的节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/同积元组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/同积元组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/咒语和药水的成功对数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/咒语和药水的成功对数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回文链表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回旋镖的数量.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/回旋镖的数量.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/在链表中插入最大公约数$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/在链表中插入最大公约数$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/在链表中插入最大公约数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/在链表中插入最大公约数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/奖励最顶尖的K名学生.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/子数组的最小值之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/子数组的最小值之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串中的额外字符.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串中的额外字符.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串转换.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串转换.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串轮转.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/字符串轮转.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/宝石补给.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/宝石补给.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/寻找峰值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/寻找峰值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/寻找峰值二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/寻找峰值二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/将钱分给最多的儿童.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/将钱分给最多的儿童.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/形成目标数组的子数组最少增加次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/形成目标数组的子数组最少增加次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/得到K个半回文串的最少修改次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/得到K个半回文串的最少修改次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/得到山形数组的最少删除次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/得到山形数组的最少删除次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/情侣牵手.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/情侣牵手.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/所有排列中的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/所有排列中的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行K次操作后的最大分数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行操作后的变量值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/执行操作后的变量值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/找出叠涂元素.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/找出叠涂元素.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/找出字符串中第一个匹配项的下标.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/找出字符串中第一个匹配项的下标.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拼车$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拼车$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拼车$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拼车$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拼车.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拼车.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拿出最少数目的魔法豆.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拿出最少数目的魔法豆.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拿硬币.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/拿硬币.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/掷骰子等于目标和的方法数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/掷骰子等于目标和的方法数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/收集巧克力.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/收集巧克力.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/收集足够苹果的最小花园周长.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/收集足够苹果的最小花园周长.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数位和相等数对的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数位和相等数对的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数字游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数字游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数组中两个数的最大异或值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/数组中两个数的最大异或值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/无重复字符的最长子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/无重复字符的最长子串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符$MaxMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符$MaxMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/替换后的最长重复字符.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大交换.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大交换.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大单词长度乘积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大单词长度乘积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大和查询.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大子数组和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最大子数组和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小体力消耗路径.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小体力消耗路径.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小化旅行的价格总和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小化旅行的价格总和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最小和分割.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最少的后缀翻转次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最少的后缀翻转次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最接近的三数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最接近的三数之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最短回文串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最短回文串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长交替子数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长交替子数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长回文子序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长奇偶子数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长奇偶子数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长平衡子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长平衡子字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长递增子序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/最长递增子序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/构造有效字符串的最少插入数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/构造有效字符串的最少插入数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/构造限制重复的字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/构造限制重复的字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/根据字符出现频率排序.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每日温度.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每日温度.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每棵子树内缺失的最小基因值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/每棵子树内缺失的最小基因值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/水壶问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/水壶问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/求一个整数的惩罚数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/求一个整数的惩罚数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/滑动窗口最大值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/滑动窗口最大值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/爬楼梯.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/爬楼梯.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二$ListNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/环形链表二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/用邮票贴满网格图.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/用邮票贴满网格图.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/相对名次.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/石子游戏VI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/石子游戏VI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/石子游戏VII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/石子游戏VII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/确定两个字符串是否接近.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/确定两个字符串是否接近.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/种花问题.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/种花问题.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/移动机器人.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/移动机器人.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/移除石子使总数最小.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/移除石子使总数最小.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/组合总和Ⅳ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/组合总和Ⅳ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点$Edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点$Edge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/细分图中的可到达节点.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/经营摩天轮的最大利润.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/经营摩天轮的最大利润.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计一个数组中好对子的数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计一个数组中好对子的数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计出现过一次的公共字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计出现过一次的公共字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计和小于目标的下标对数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计和小于目标的下标对数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计子串中的唯一字符.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计子串中的唯一字符.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计整数数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计整数数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计无向图中无法互相到达点对数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计无向图中无法互相到达点对数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计树中的合法路径数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计树中的合法路径数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计重复个数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/统计重复个数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格中的最小路径代价.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格中的最小路径代价.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网格游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网络延迟时间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/网络延迟时间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/罗马数字转整数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/罗马数字转整数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/美丽塔二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/美丽塔二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/美化数组的最少删除数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/美化数组的最少删除数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/自由之路.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/自由之路.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/被列覆盖的最多行数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/被列覆盖的最多行数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/规定时间内到达终点的最小花费.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/规定时间内到达终点的最小花费.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/计数质数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/计数质数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/训练计划一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/训练计划一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/课程表二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和$TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和$TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/路径总和二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/边权重均等查询.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/边权重均等查询.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离大迷宫.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离大迷宫.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离火灾.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/逃离火灾.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/递枕头.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/递枕头.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/避免洪水泛滥.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/避免洪水泛滥.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重复的DNA序列.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重复的DNA序列.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新安排行程.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新安排行程.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新排列字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新排列字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新规划路线.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/重新规划路线.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/长度为三且各字符不同的子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/长度为三且各字符不同的子字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/阈值距离内邻居最少的城市.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/阈值距离内邻居最少的城市.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/队列中可以看到的人数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/队列中可以看到的人数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/除法求值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/除法求值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/餐厅过滤器.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题/魔塔游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题/魔塔游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/SnapshotArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/SnapshotArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/你可以工作的最大周数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/你可以工作的最大周数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/使数组连续的最少操作数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/使数组连续的最少操作数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/修改后的最大二进制字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/修改后的最大二进制字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/到达目的地的方案数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/到达目的地的方案数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/吃掉N个橘子的最少天数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/吃掉N个橘子的最少天数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/好子数组的最大分数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/好子数组的最大分数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/完成所有任务的最少时间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/完成所有任务的最少时间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/找出可整除性得分最大的整数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/找出可整除性得分最大的整数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/找出美丽数组的最小和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/找出美丽数组的最小和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/找出输掉零场或一场比赛的玩家.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/找出输掉零场或一场比赛的玩家.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/摘樱桃.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/摘樱桃.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/摘樱桃二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/摘樱桃二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/数组元素的最小非零乘积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/数组元素的最小非零乘积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/正整数和负整数的最大计数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/正整数和负整数的最大计数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/爱生气的书店老板.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/爱生气的书店老板.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/组合总和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/组合总和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/组合总和三.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/组合总和三.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/给植物浇水.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/给植物浇水.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/给植物浇水二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/给植物浇水二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/腐烂的橘子.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/腐烂的橘子.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/零钱兑换二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/每日一题二/零钱兑换二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/测试$Io.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/测试$Io.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/测试.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/测试.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第120场双周赛/找到最大周长的多边形.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第120场双周赛/找到最大周长的多边形.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第120场双周赛/树中每个节点放置的金币数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第120场双周赛/树中每个节点放置的金币数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第120场双周赛/统计移除递增子数组的数目一二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第120场双周赛/统计移除递增子数组的数目一二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/最大二进制奇数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/最大二进制奇数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/统计树中的合法路径数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/统计树中的合法路径数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第364场周赛/美丽塔二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/无限数组的最短子数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/无限数组的最短子数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有向图访问计数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有向图访问计数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有序三元组中的最大值一二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第365场周赛/有序三元组中的最大值一二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/分类求和并作差.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/分类求和并作差.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/对数组执行操作使平方和最大.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/对数组执行操作使平方和最大.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/执行操作使两个字符串相等.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/执行操作使两个字符串相等.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第366场周赛/最小处理时间.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/找出满足差值条件的下标二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/最短且字典序最小的美丽子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/最短且字典序最小的美丽子字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/构造乘积矩阵.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第367场周赛/构造乘积矩阵.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/元素和最小的山形三元组一二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/元素和最小的山形三元组一二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/合法分组的最少组数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第368场周赛/合法分组的最少组数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/使数组变美的最小增量运算数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/使数组变美的最小增量运算数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/找出数组中的K_or值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/找出数组中的K_or值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/收集所有金币可获得的最大积分.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/收集所有金币可获得的最大积分.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/数组的最小相等和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第369场周赛/数组的最小相等和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/在树上执行操作以后得到的最大分数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/在树上执行操作以后得到的最大分数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/平衡子序列的最大和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/平衡子序列的最大和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第370场周赛/找到冠军二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/找出强数对的最大异或值二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/最大化数组末位元素的最少操作次数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/最大化数组末位元素的最少操作次数.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/高访问员工.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第371场周赛/高访问员工.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/使三个字符串相等.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/使三个字符串相等.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/区分黑球与白球.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/区分黑球与白球.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/找到Alice和Bob可以相遇的建筑$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/找到Alice和Bob可以相遇的建筑$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/找到Alice和Bob可以相遇的建筑.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/找到Alice和Bob可以相遇的建筑.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/最大异或乘积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第372场周赛/最大异或乘积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/交换得到字典序最小的数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/交换得到字典序最小的数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/循环移位后的矩阵相似检查.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/循环移位后的矩阵相似检查.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/统计美丽子字符串一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/统计美丽子字符串一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/统计美丽子字符串二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第373场周赛/统计美丽子字符串二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/找出峰值.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/找出峰值.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/统计完全子字符串.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/统计完全子字符串.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/统计感冒序列的数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/统计感冒序列的数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/需要添加的硬币的最小数量.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第374场周赛/需要添加的硬币的最小数量.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/双模幂运算.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/双模幂运算.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计好分割方案的数目$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计好分割方案的数目$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计好分割方案的数目$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计好分割方案的数目$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计好分割方案的数目.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计好分割方案的数目.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计已测试设备.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计已测试设备.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计最大元素出现至少K次的子数组.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第375场周赛/统计最大元素出现至少K次的子数组.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/使数组成为等数数组的最小代价.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/使数组成为等数数组的最小代价.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/划分数组并满足最大差限制.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/划分数组并满足最大差限制.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/执行操作使频率分数最大.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/执行操作使频率分数最大.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/找出缺失和重复的数字.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第376场周赛/找出缺失和重复的数字.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/最小数字游戏.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/最小数字游戏.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/移除栅栏得到的正方形田地的最大面积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/移除栅栏得到的正方形田地的最大面积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/转换字符串的最小成本一.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/转换字符串的最小成本一.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/转换字符串的最小成本二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第377场周赛/转换字符串的最小成本二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第378场周赛/回文串重新排列查询.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第378场周赛/回文串重新排列查询.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第378场周赛/找出出现至少三次的最长特殊子字符串一二.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第378场周赛/找出出现至少三次的最长特殊子字符串一二.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第378场周赛/检查按位或是否存在尾随零.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第378场周赛/检查按位或是否存在尾随零.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/第379场周赛/对角线最长的矩形的面积.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/第379场周赛/对角线最长的矩形的面积.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/蓝桥杯/修改.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/蓝桥杯/修改.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/蓝桥杯/好数之和.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/蓝桥杯/好数之和.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/蓝桥杯/背包与魔法.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/蓝桥杯/背包与魔法.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/LC3n块披萨.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/LC3n块披萨.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/MyCalendar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/MyCalendar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/MyCalendarThree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/MyCalendarThree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/N皇后.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/N皇后.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/RecentCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/RecentCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/任意子数组和的绝对值的最大值.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/任意子数组和的绝对值的最大值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/全排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/全排列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/删掉一个元素以后全为1的最长子数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/删掉一个元素以后全为1的最长子数组.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/和为目标值的最长子序列的长度.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/和为目标值的最长子序列的长度.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/图论/dfs/两个城市间路径的最小分数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/图论/dfs/两个城市间路径的最小分数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/字母与数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/字母与数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/对称二叉树.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/对称二叉树.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/将一个数字表示成幂的和的方案数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/将一个数字表示成幂的和的方案数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/左移右移.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/左移右移.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/心算挑战.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/心算挑战.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/打家劫舍.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/打家劫舍.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/打家劫舍三.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/打家劫舍三.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/掉落的方块.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/掉落的方块.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/整数转罗马数字.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/整数转罗马数字.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/最长公共子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/最长公共子序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/最长递增子序列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/最长递增子序列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/电话号码的字母组合.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/电话号码的字母组合.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/统计打字方案数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/统计打字方案数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/统计放置房子的方式数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/统计放置房子的方式数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/网格图中最少访问的格子数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/网格图中最少访问的格子数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/迷宫.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/迷宫.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/其他练习/零钱兑换.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/其他练习/未分类/零钱兑换.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/测试.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +425,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -53,13 +444,14 @@
     &quot;state&quot;: &quot;OPEN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="4aa6401f-d885-4062-9be4-1023d5481207" />
-        <option name="url" value="https://github.com/JiuMu13/Leetcode.git" />
-      </UrlAndAccount>
-    </option>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JiuMu13/Leetcode.git&quot;,
+    &quot;accountId&quot;: &quot;4aa6401f-d885-4062-9be4-1023d5481207&quot;
+  }
+}</component>
+  <component name="PerforceDirect.Settings">
+    <option name="CHARSET" value="无" />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -79,19 +471,21 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/work/project/实验室/ry1sb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.0",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "http.proxy",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true",
     "应用程序.LC3n块披萨.executor": "Run",
     "应用程序.N皇后.executor": "Debug",
@@ -103,13 +497,18 @@
     "应用程序.使数组连续的最少操作数.executor": "Run",
     "应用程序.修改.executor": "Run",
     "应用程序.修改后的最大二进制字符串.executor": "Run",
+    "应用程序.公交路线.executor": "Run",
+    "应用程序.公司命名.executor": "Run",
     "应用程序.到达目的地的方案数.executor": "Run",
     "应用程序.十大排序算法.executor": "Run",
     "应用程序.可以到达所有点的最少点数目.executor": "Debug",
     "应用程序.吃掉N个橘子的最少天数.executor": "Run",
     "应用程序.图中的最短环.executor": "Run",
+    "应用程序.地铁线路问题.executor": "Run",
+    "应用程序.坐上公交的最晚时间.executor": "Run",
     "应用程序.好子数组的最大分数.executor": "Run",
     "应用程序.好数之和.executor": "Debug",
+    "应用程序.字符串中最多数目的子序列.executor": "Run",
     "应用程序.完成所有任务的最少时间.executor": "Run",
     "应用程序.将一个数字表示成幂的和的方案数.executor": "Run",
     "应用程序.左移右移.executor": "Run",
@@ -117,8 +516,10 @@
     "应用程序.摘樱桃.executor": "Run",
     "应用程序.数字1的个数.executor": "Run",
     "应用程序.数组元素的最小非零乘积.executor": "Run",
+    "应用程序.最佳观光组合.executor": "Debug",
     "应用程序.最大为N的数字组合.executor": "Run",
     "应用程序.最大波动的子字符串.executor": "Debug",
+    "应用程序.最长特殊序列二.executor": "Debug",
     "应用程序.正整数和负整数的最大计数.executor": "Run",
     "应用程序.爱生气的书店老板.executor": "Run",
     "应用程序.组合总和.executor": "Run",
@@ -130,7 +531,10 @@
     "应用程序.网格图中最少访问的格子数_静态空间.executor": "Run",
     "应用程序.背包与魔法.executor": "Run",
     "应用程序.腐烂的橘子.executor": "Run",
+    "应用程序.让所有学生保持开心的分组方法数.executor": "Run",
+    "应用程序.访问消失节点的最少时间.executor": "Run",
     "应用程序.迷宫.executor": "Run",
+    "应用程序.重新放置石块.executor": "Debug",
     "应用程序.颜色交替的最短路径.executor": "Run"
   }
 }]]></component>
@@ -139,11 +543,11 @@
       <recent name="D:\javawork\LeetCode\src\每日一题" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="其他练习" />
       <recent name="" />
+      <recent name="其他练习" />
     </key>
   </component>
-  <component name="RunManager" selected="应用程序.可以到达所有点的最少点数目">
+  <component name="RunManager" selected="应用程序.公司命名">
     <configuration name="可以到达所有点的最少点数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="其他练习.图论.拓扑排序.可以到达所有点的最少点数目" />
       <module name="LeetCode" />
@@ -170,51 +574,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="两个城市间路径的最小分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.图论.dfs.两个城市间路径的最小分数" />
+    <configuration name="公司命名" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.公司命名" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="其他练习.图论.dfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计完全连通分量的数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.图论.dfs.统计完全连通分量的数量" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.图论.dfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="颜色交替的最短路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.图论.bfs.颜色交替的最短路径" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.图论.bfs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="图中的最短环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.图论.bfs.图中的最短环" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.图论.bfs.*" />
+          <option name="PATTERN" value="每日一题二.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -235,481 +600,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="三个无重叠子数组的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="三个无重叠子数组的最大和" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="收集所有金币可获得的最大积分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="收集所有金币可获得的最大积分" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找出满足差值条件的下标二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第367场周赛.找出满足差值条件的下标二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第367场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="子数组的最小值之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.子数组的最小值之和" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.组合总和" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="根据字符出现频率排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="根据字符出现频率排序" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="使循环数组所有元素相等的最少秒数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.使循环数组所有元素相等的最少秒数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="买卖股票的最佳时机" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大子数组和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最大子数组和" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="细分图中的可到达节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="细分图中的可到达节点" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="队列中可以看到的人数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.队列中可以看到的人数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="队列中可以看到的人数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.队列中可以看到的人数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="一周中的第几天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.一周中的第几天" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="计数质数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="计数质数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="所有排列中的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="所有排列中的最大和" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分类求和并作差" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第366场周赛.分类求和并作差" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第366场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="无重复字符的最长子串" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="环形链表二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="环形链表二" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="咒语和药水的成功对数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="咒语和药水的成功对数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="执行操作使频率分数最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第376场周赛.执行操作使频率分数最大" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第376场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="任意子数组和的绝对值的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.任意子数组和的绝对值的最大值" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计打字方案数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.统计打字方案数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找到冠军二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第370场周赛.找到冠军二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第370场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="测试" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="无限数组的最短子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第365场周赛.无限数组的最短子数组" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第365场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字符串中的额外字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.字符串中的额外字符" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="收集足够苹果的最小花园周长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.收集足够苹果的最小花园周长" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="美丽塔一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第364场周赛.美丽塔一" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第364场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="买卖股票的最佳时机三" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="买卖股票的最佳时机三" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="求一个整数的惩罚数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="求一个整数的惩罚数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="使数组变美的最小增量运算数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第369场周赛.使数组变美的最小增量运算数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第369场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最短回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最短回文串" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="左移右移" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.左移右移" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最小化旅行的价格总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.最小化旅行的价格总和" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="摘樱桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.摘樱桃" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最长回文子串" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="测试" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="参加会议的最多员工数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="参加会议的最多员工数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="掷骰子等于目标和的方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="掷骰子等于目标和的方法数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="你可以工作的最大周数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.你可以工作的最大周数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="测试" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="参加考试的最大学生数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.参加考试的最大学生数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="测试" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="避免洪水泛滥" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="避免洪水泛滥" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最接近的三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最接近的三数之和" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计子串中的唯一字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.统计子串中的唯一字符" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="高访问员工" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第371场周赛.高访问员工" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第371场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.爬楼梯" />
+    <configuration name="最长交替子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.最长交替子数组" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -728,21 +620,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="正整数和负整数的最大计数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.正整数和负整数的最大计数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找出叠涂元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.找出叠涂元素" />
+    <configuration name="队列中可以看到的人数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.队列中可以看到的人数" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -754,19 +633,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="切割后面积最大的蛋糕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="切割后面积最大的蛋糕" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="到达目的地的方案数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.到达目的地的方案数" />
+    <configuration name="图中的最短环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.图论.bfs.图中的最短环" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
+          <option name="PATTERN" value="其他练习.图论.bfs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -774,307 +646,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="下一个更大元素四" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.下一个更大元素四" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计完全子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第374场周赛.统计完全子字符串" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第374场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找出出现至少三次的最长特殊子字符串一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第378场周赛.找出出现至少三次的最长特殊子字符串一二" />
+    <configuration name="回文串重新排列查询" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第378场周赛.回文串重新排列查询" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="第378场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="替换后的最长重复字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="替换后的最长重复字符" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最小体力消耗路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.最小体力消耗路径" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="腐烂的橘子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.腐烂的橘子" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="美丽塔二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第364场周赛.美丽塔二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第364场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计一个数组中好对子的数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="统计一个数组中好对子的数目" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计树中的合法路径数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第364场周赛.统计树中的合法路径数目" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第364场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大异或乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第372场周赛.最大异或乘积" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第372场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="转换字符串的最小成本一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本一" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第377场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="完成所有任务的最少时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.完成所有任务的最少时间" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="迷宫" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.迷宫" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="修改" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="蓝桥杯.修改" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="蓝桥杯.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="形成目标数组的子数组最少增加次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="形成目标数组的子数组最少增加次数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="转换字符串的最小成本二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第377场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计好分割方案的数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第375场周赛.统计好分割方案的数目" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第375场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="爱生气的书店老板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.爱生气的书店老板" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计重复个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.统计重复个数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计移除递增子数组的数目一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第120场双周赛.统计移除递增子数组的数目一二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第120场双周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="执行操作使频率分数最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第376场周赛.执行操作使频率分数最大" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第376场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="网络延迟时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="网络延迟时间" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="网格图中最少访问的格子数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.网格图中最少访问的格子数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="重新规划路线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.重新规划路线" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计无向图中无法互相到达点对数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="统计无向图中无法互相到达点对数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="到达首都的最少油耗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.到达首都的最少油耗" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1108,8 +685,548 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="找出出现至少三次的最长特殊子字符串一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第378场周赛.找出出现至少三次的最长特殊子字符串一二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第378场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="地铁线路问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="学校作业.地铁线路问题" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="学校作业.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分类求和并作差" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第366场周赛.分类求和并作差" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第366场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="全部开花的最早一天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="全部开花的最早一天" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="测试" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="所有排列中的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="所有排列中的最大和" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="咒语和药水的成功对数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="咒语和药水的成功对数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="颜色交替的最短路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.图论.bfs.颜色交替的最短路径" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.图论.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="使数组连续的最少操作数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="每日一题二.使数组连续的最少操作数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重新规划路线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.重新规划路线" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="背包与魔法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="蓝桥杯.背包与魔法" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="蓝桥杯.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大单词长度乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最大单词长度乘积" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计树中的合法路径数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第364场周赛.统计树中的合法路径数目" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第364场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="使循环数组所有元素相等的最少秒数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.使循环数组所有元素相等的最少秒数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="两个城市间路径的最小分数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.图论.dfs.两个城市间路径的最小分数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.图论.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="美丽塔二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第364场周赛.美丽塔二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第364场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大二进制奇数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第364场周赛.最大二进制奇数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第364场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="加油站" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="加油站" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="测试" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找到冠军二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第370场周赛.找到冠军二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第370场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="避免洪水泛滥" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="避免洪水泛滥" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最小和分割" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最小和分割" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.爬楼梯" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最佳观光组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.最佳观光组合" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找出叠涂元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.找出叠涂元素" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="倍数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="倍数求和" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="相对名次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="相对名次" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="摘樱桃" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.摘樱桃" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="只出现一次的数字二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="只出现一次的数字二" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="参加考试的最大学生数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.参加考试的最大学生数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计完全连通分量的数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.图论.dfs.统计完全连通分量的数量" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.图论.dfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="腐烂的橘子" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.腐烂的橘子" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="坐上公交的最晚时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.坐上公交的最晚时间" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="一个区间内所有数乘积的缩写" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="一个区间内所有数乘积的缩写" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="切割后面积最大的蛋糕" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="切割后面积最大的蛋糕" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="无重复字符的最长子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="无重复字符的最长子串" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="替换后的最长重复字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="替换后的最长重复字符" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最小体力消耗路径" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.最小体力消耗路径" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字符串轮转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="字符串轮转" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计一个数组中好对子的数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="统计一个数组中好对子的数目" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="根据字符出现频率排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="根据字符出现频率排序" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大波动的子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.最大波动的子字符串" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三个无重叠子数组的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="三个无重叠子数组的最大和" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组中两个数的最大异或值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="数组中两个数的最大异或值" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最短且字典序最小的美丽子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第367场周赛.最短且字典序最小的美丽子字符串" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第367场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最接近的三数之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最接近的三数之和" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="收集所有金币可获得的最大积分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="收集所有金币可获得的最大积分" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计完全子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第374场周赛.统计完全子字符串" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第374场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="买卖股票的最佳时机三" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="买卖股票的最佳时机三" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="字母与数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.字母与数字" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="测试" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="掷骰子等于目标和的方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="掷骰子等于目标和的方法数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合法分组的最少组数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第368场周赛.合法分组的最少组数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第368场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="掷骰子等于目标和的方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="掷骰子等于目标和的方法数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="完成所有任务的最少时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.完成所有任务的最少时间" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -1134,12 +1251,255 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="拼车" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.拼车" />
+    <configuration name="执行操作使频率分数最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第376场周赛.执行操作使频率分数最大" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第376场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="一周中的第几天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.一周中的第几天" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="环形链表二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="环形链表二" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大子数组和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最大子数组和" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="使数组变美的最小增量运算数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第369场周赛.使数组变美的最小增量运算数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第369场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计好分割方案的数目" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第375场周赛.统计好分割方案的数目" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第375场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最小化旅行的价格总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.最小化旅行的价格总和" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最大异或乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第372场周赛.最大异或乘积" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第372场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="正整数和负整数的最大计数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.正整数和负整数的最大计数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="美丽塔二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.美丽塔二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="计数质数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="计数质数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="魔塔游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.魔塔游戏" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="电话号码的字母组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.电话号码的字母组合" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="公交路线" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.公交路线" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计移除递增子数组的数目一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第120场双周赛.统计移除递增子数组的数目一二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第120场双周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="子数组的最小值之和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.子数组的最小值之和" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="形成目标数组的子数组最少增加次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="形成目标数组的子数组最少增加次数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="移动机器人" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="移动机器人" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="下一个更大元素四" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.下一个更大元素四" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计特殊整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.数位dp.统计特殊整数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.数位dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计打字方案数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.统计打字方案数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="执行操作使频率分数最大" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第376场周赛.执行操作使频率分数最大" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第376场周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1160,19 +1520,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="合并区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="合并区间" />
+    <configuration name="参加会议的最多员工数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="参加会议的最多员工数" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="美丽塔二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.美丽塔二" />
+    <configuration name="无限数组的最短子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第365场周赛.无限数组的最短子数组" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="每日一题.*" />
+          <option name="PATTERN" value="第365场周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1180,19 +1540,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="情侣牵手" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="情侣牵手" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组元素的最小非零乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.数组元素的最小非零乘积" />
+    <configuration name="字符串中的额外字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.字符串中的额外字符" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
+          <option name="PATTERN" value="每日一题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1207,26 +1560,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="数组中两个数的最大异或值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组中两个数的最大异或值" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="只出现一次的数字二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="只出现一次的数字二" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="平衡子序列的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第370场周赛.平衡子序列的最大和" />
+    <configuration name="字符串中最多数目的子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.字符串中最多数目的子序列" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="第370场周赛.*" />
+          <option name="PATTERN" value="每日一题二.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1234,32 +1573,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="回文串重新排列查询" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第378场周赛.回文串重新排列查询" />
+    <configuration name="美丽塔一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第364场周赛.美丽塔一" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="第378场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长递增子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最长递增子序列" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最长交替子数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.最长交替子数组" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
+          <option name="PATTERN" value="第364场周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1280,8 +1599,141 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="背包与魔法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="蓝桥杯.背包与魔法" />
+    <configuration name="最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最长回文子串" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="同积元组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="同积元组" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="转换字符串的最小成本一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本一" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第377场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="滑动窗口最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="滑动窗口最大值" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.组合总和" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="寻找峰值二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.寻找峰值二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="合并区间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="合并区间" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="细分图中的可到达节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="细分图中的可到达节点" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="拼车" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.拼车" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="自由之路" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.自由之路" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="重新放置石块" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.重新放置石块" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组元素的最小非零乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.数组元素的最小非零乘积" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最少的后缀翻转次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最少的后缀翻转次数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="修改" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="蓝桥杯.修改" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -1289,6 +1741,106 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计子串中的唯一字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.统计子串中的唯一字符" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="左移右移" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.左移右移" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="十大排序算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="模板.十大排序算法" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="模板.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最短回文串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最短回文串" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="到达首都的最少油耗" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.到达首都的最少油耗" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="买卖股票的最佳时机" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="买卖股票的最佳时机" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="测试" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计无向图中无法互相到达点对数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="统计无向图中无法互相到达点对数" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="高访问员工" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第371场周赛.高访问员工" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第371场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求一个整数的惩罚数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="求一个整数的惩罚数" />
+      <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -1319,101 +1871,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="同积元组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="同积元组" />
+    <configuration name="最长递增子序列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="最长递增子序列" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="全部开花的最早一天" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="全部开花的最早一天" />
+    <configuration name="网络延迟时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="网络延迟时间" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最大单词长度乘积" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最大单词长度乘积" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="寻找峰值二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.寻找峰值二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="元素和最小的山形三元组一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第368场周赛.元素和最小的山形三元组一二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第368场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计特殊整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.数位dp.统计特殊整数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.数位dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="倍数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="倍数求和" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题二.组合总和" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题二.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="魔塔游戏" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.魔塔游戏" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最大波动的子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.最大波动的子字符串" />
+    <configuration name="网格图中最少访问的格子数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.网格图中最少访问的格子数" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -1425,86 +1898,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="最大二进制奇数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第364场周赛.最大二进制奇数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第364场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最小和分割" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最小和分割" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="加油站" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="加油站" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="掷骰子等于目标和的方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="掷骰子等于目标和的方法数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="相对名次" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="相对名次" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="移动机器人" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="移动机器人" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="合法分组的最少组数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第368场周赛.合法分组的最少组数" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第368场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="自由之路" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.自由之路" />
+    <configuration name="收集足够苹果的最小花园周长" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.收集足够苹果的最小花园周长" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="统计美丽子字符串二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第373场周赛.统计美丽子字符串二" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第373场周赛.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -1514,118 +1913,6 @@
     </configuration>
     <configuration name="心算挑战" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="其他练习.心算挑战" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="分割数组的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.分割数组的最大值" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="十大排序算法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="模板.十大排序算法" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="模板.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="电话号码的字母组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.电话号码的字母组合" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最少的后缀翻转次数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最少的后缀翻转次数" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="一个区间内所有数乘积的缩写" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="一个区间内所有数乘积的缩写" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="水壶问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="每日一题.水壶问题" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="每日一题.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="滑动窗口最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="滑动窗口最大值" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="最短且字典序最小的美丽子字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="第367场周赛.最短且字典序最小的美丽子字符串" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="第367场周赛.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="字母与数字" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.字母与数字" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="其他练习.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="电话号码的字母组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="其他练习.电话号码的字母组合" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -1650,20 +1937,263 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="字符串轮转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="字符串轮转" />
+    <configuration name="平衡子序列的最大和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第370场周赛.平衡子序列的最大和" />
       <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第370场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="到达目的地的方案数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.到达目的地的方案数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="队列中可以看到的人数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.队列中可以看到的人数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计美丽子字符串二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第373场周赛.统计美丽子字符串二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第373场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="转换字符串的最小成本二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第377场周赛.转换字符串的最小成本二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第377场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="分割数组的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.分割数组的最大值" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="组合总和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.组合总和" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="让所有学生保持开心的分组方法数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.让所有学生保持开心的分组方法数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找出满足差值条件的下标二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第367场周赛.找出满足差值条件的下标二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第367场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="任意子数组和的绝对值的最大值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.任意子数组和的绝对值的最大值" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="访问消失节点的最少时间" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.图论.Dijkstra.访问消失节点的最少时间" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.图论.Dijkstra.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="情侣牵手" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="情侣牵手" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="爱生气的书店老板" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.爱生气的书店老板" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="元素和最小的山形三元组一二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="第368场周赛.元素和最小的山形三元组一二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="第368场周赛.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="迷宫" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.迷宫" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="最长特殊序列二" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.最长特殊序列二" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计重复个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.统计重复个数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="电话号码的字母组合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="其他练习.电话号码的字母组合" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="其他练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="你可以工作的最大周数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题二.你可以工作的最大周数" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="水壶问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="每日一题.水壶问题" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="每日一题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.可以到达所有点的最少点数目" />
-        <item itemvalue="应用程序.图中的最短环" />
-        <item itemvalue="应用程序.颜色交替的最短路径" />
-        <item itemvalue="应用程序.统计完全连通分量的数量" />
-        <item itemvalue="应用程序.两个城市间路径的最小分数" />
+        <item itemvalue="应用程序.公司命名" />
       </list>
     </recent_temporary>
   </component>
@@ -1682,8 +2212,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-1.8.0_402-corretto-1.8.0_402-4caba194b151-ae57be32" />
-        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
@@ -1945,7 +2475,36 @@
       <workItem from="1716858396146" duration="16925000" />
       <workItem from="1716945615342" duration="9031000" />
       <workItem from="1716963565878" duration="129000" />
-      <workItem from="1717028042347" duration="24600000" />
+      <workItem from="1717028042347" duration="29793000" />
+      <workItem from="1717249729220" duration="350000" />
+      <workItem from="1718602107487" duration="5640000" />
+      <workItem from="1719281998302" duration="218000" />
+      <workItem from="1719294812018" duration="7000" />
+      <workItem from="1721783526515" duration="1879000" />
+      <workItem from="1721878005100" duration="3005000" />
+      <workItem from="1721979943969" duration="601000" />
+      <workItem from="1722045360613" duration="7000" />
+      <workItem from="1725421856436" duration="6150000" />
+      <workItem from="1725502965251" duration="2018000" />
+      <workItem from="1725625871391" duration="1260000" />
+      <workItem from="1725635710786" duration="615000" />
+      <workItem from="1725637342772" duration="1000" />
+      <workItem from="1725638037503" duration="23000" />
+      <workItem from="1725979163476" duration="355000" />
+      <workItem from="1725979534179" duration="4566000" />
+      <workItem from="1726379097082" duration="4519000" />
+      <workItem from="1726560331161" duration="4485000" />
+      <workItem from="1726617813128" duration="10378000" />
+      <workItem from="1726708985995" duration="9188000" />
+      <workItem from="1726808346878" duration="2149000" />
+      <workItem from="1726875109648" duration="815000" />
+      <workItem from="1727056865283" duration="4402000" />
+      <workItem from="1727193382438" duration="31000" />
+      <workItem from="1727193421336" duration="1356000" />
+      <workItem from="1727232494713" duration="1343000" />
+      <workItem from="1727234758726" duration="163000" />
+      <workItem from="1727254703183" duration="1727000" />
+      <workItem from="1727262222504" duration="6664000" />
     </task>
     <task id="LOCAL-00001" summary="11月27日每日一题">
       <created>1701049864792</created>
@@ -2267,7 +2826,31 @@
       <option name="project" value="LOCAL" />
       <updated>1716963401694</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="2024年5月30日交">
+      <option name="closed" value="true" />
+      <created>1717082011358</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1717082011358</updated>
+    </task>
+    <task id="LOCAL-00047" summary="2024年5月30日交">
+      <option name="closed" value="true" />
+      <created>1718602174456</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1718602174456</updated>
+    </task>
+    <task id="LOCAL-00048" summary="2024年7月24日交">
+      <option name="closed" value="true" />
+      <created>1721784773067</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1721784773067</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -2285,8 +2868,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="12月17日交&#10;16日每日一题和线段树练习" />
-    <MESSAGE value="12月18日交&#10;每日一题" />
     <MESSAGE value="12月19日交&#10;每日一题" />
     <MESSAGE value="12月20日交&#10;每日一题,第376场周赛" />
     <MESSAGE value="12月21日交&#10;每日一题" />
@@ -2310,7 +2891,9 @@
     <MESSAGE value="2024年5月28日第二次交" />
     <MESSAGE value="2024年5月28日第三次交" />
     <MESSAGE value="2024年5月29日交" />
-    <option name="LAST_COMMIT_MESSAGE" value="2024年5月29日交" />
+    <MESSAGE value="2024年5月30日交" />
+    <MESSAGE value="2024年7月24日交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2024年7月24日交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2366,7 +2949,7 @@
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/其他练习/任意子数组和的绝对值的最大值.java</url>
+          <url>file://$PROJECT_DIR$/src/其他练习/未分类/任意子数组和的绝对值的最大值.java</url>
           <line>10</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
@@ -2391,7 +2974,7 @@
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/其他练习/左移右移.java</url>
+          <url>file://$PROJECT_DIR$/src/其他练习/未分类/左移右移.java</url>
           <line>28</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
@@ -2420,12 +3003,11 @@
           <line>25</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/其他练习/图论/拓扑排序/可以到达所有点的最少点数目.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="51" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
